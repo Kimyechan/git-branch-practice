@@ -7,3 +7,4 @@ change2
 
 amazing1
 
+amazing2
